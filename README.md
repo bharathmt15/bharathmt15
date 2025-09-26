@@ -1,6 +1,8 @@
 # 💫 Hi 👋, I'm Bharath kumar
 MERN STACK DEV AND PASSIONATE ABOUT ML | TRADER | MARKET EDUCATOR AND TECHNICAL ANALYST
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Bharath+Kumar;I+am+a+Web+Developer;I+am+a+Technical+Analyst;I+am+a+Trader)](https://git.io/typing-svg)
+
 Email Me 👉 ✉️ **kumarbharat99928@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** web developement and ML and technical analysis
