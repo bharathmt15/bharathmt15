@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Bharath kumar
-MERN STACK DEV AND PASSIONATE ABOUT ML | TRADER | MARKET EDUCATOR AND TRAINER
+MERN STACK DEV AND PASSIONATE ABOUT ML | TRADER | MARKET EDUCATOR AND TECHNICAL ANALYST
 
 Email Me 👉 ✉️ **kumarbharat99928@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
