@@ -15,6 +15,8 @@ Email Me 👉 ✉️ **kumarbharat99928@gmail.com** For Collaboration/Project or
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bharathmt15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=4000&pause=2000&color=F7AB16&width=435&lines=Let's+Connect)](https://git.io/typing-svg)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhxrxth_155) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-kumar-reddy-672b64322/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarbharat99928@gmail.com) 
 
